@@ -1,1 +1,10 @@
+#    Lista de Questões do Capítulo 8
+
+Questão | Enunciado
+:--------: | :-----------:
+[**03**](https://github.com/isabellecastello/DisciplinaPOO2023.2/blob/main/Lista03/Cap08/Q03R/src/br/edu/principal/Principal.java) | Faça um programa contendo uma sub-rotina que receba três números inteiros a, b e c, sendo a maior que 1. A sub-rotina deverá somar todos os inteiros entre b e c que sejam divisíveis por a (inclusive b e c) e retornar o resultado para ser impresso.
+[**4**](https://github.com/isabellecastello/DisciplinaPOO2023.2/tree/main/Lista03/Cap08/Q04R/src/br/edu/principal/Principal.java) | Faça uma sub-rotina que receba um único valor representando segundos. Essa sub-rotina deverá convertê-lo para horas, minutos e segundos. Todas as variáveis devem ser passadas como parâmetro, não havendo variáveis globais.
+[**5**](https://github.com/isabellecastello/DisciplinaPOO2023.2/blob/main/Lista03/Cap08/Q05R/src/br/edu/principal/Principal.java) | Crie um programa que receba os valores antigo e atual de um produto. Chame uma sub-rotina que determine o percentual de acréscimo entre esses valores. O resultado deverá ser mostrado no programa principal.
+[**22**](https://github.com/isabellecastello/DisciplinaPOO2023.2/blob/main/Lista03/Cap08/Q22R/src/br/edu/principal/Principal.java) | Crie um programa que carregue um vetor com oito números inteiros, calcule e mostre dois vetores resultantes. O primeiro vetor resultante deverá conter os números positivos e o segundo, os números negativos. Cada vetor resultante terá no máximo oito posições, e nem todas serão obrigatoriamente utilizadas.
+[**24**](https://github.com/isabellecastello/DisciplinaPOO2023.2/blob/main/Lista03/Cap08/Q24R/src/br/edu/principal/Principal.java) | Faça um programa contendo uma sub-rotina que receba dois valores numéricos e um símbolo. Essesímbolo representará a operação que se deseja efetuar com os números. Se o símbolo for +, deverá ser realizada uma adição, e, se for *, deverá ser efetuada uma multiplicação. O resultado deverá ser mostrado no programa principal.
 
